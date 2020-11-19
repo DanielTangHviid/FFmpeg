@@ -1724,7 +1724,6 @@ EXTERNAL_LIBRARY_GPL_LIST="
     libdavs2
     librubberband
     libvidstab
-    libx264
     libx265
     libxavs
     libxavs2
